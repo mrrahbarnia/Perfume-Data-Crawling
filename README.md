@@ -11,5 +11,5 @@
 <hr>
 <p>Crawling perfume data from two websites and combining them into common records of the database.</p>
 <p>i've made a bot with selenium to searching english name and brand of each perfumes in parfumo.com, in searchbar of a iranian website and scraping persian data from their.</p>
-
+<img src=./Perfume-Database.jpeg>
 
